@@ -1,0 +1,13 @@
+applications:
+  - name: multidata-postqres
+    memory: 1G
+    instances: 1
+    buildpacks:
+      - https://github.com/cloudfoundry/java-buildpack.git
+    env:
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 17.+ } }'
+    path: target/multiple-dataSources-3.2.5.jar
+    services: 
+      - postqres-app1
+      - hana-app2  
+     
