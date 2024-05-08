@@ -1,7 +1,7 @@
 applications:
   - name: multidata-postqres-cicdpipe
     memory: 1G
-    instances: 1
+    instances: 2
     buildpacks:
       - https://github.com/cloudfoundry/java-buildpack.git
     env:
