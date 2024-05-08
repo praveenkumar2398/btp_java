@@ -1,5 +1,5 @@
 applications:
-  - name: multidata-postqres-cicd
+  - name: multidata-postqres-cicdpipe
     memory: 1G
     instances: 1
     buildpacks:
