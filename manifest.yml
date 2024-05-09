@@ -10,4 +10,5 @@ applications:
     services: 
       - postqres-app1
       - hana-app2  
+      - alert_instance
      
