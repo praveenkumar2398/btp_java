@@ -1,0 +1,4 @@
+﻿employeeId,firstName,lastName,emailId,password,dateOfJoining,contactNumber,dateOfBirth,designation
+E1001,John,Doe,johndoe@example.com,pass123,4/3/2024,1234567890,4/3/2024,Manager
+E1002,Jane,Smith,janesmith@example.com,abc456,4/3/2024,9876543210,4/3/2024,Engineer
+E1003,Michael,Johnson,michaelj@example.com,test789,4/3/2024,5551234567,4/3/2024,Analyst

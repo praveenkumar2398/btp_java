@@ -1,0 +1,4 @@
+﻿"employeeId,firstName,lastName,emailId,password,contactNumber,designation
+1,John,Doe,johndoe@example.com,pass123,123456789,Manager
+2,Jane,Smith,janesmith@example.com,abc456,987654321,Developer
+3,Michael,Johnson,michaelj@example.com,test789,456789012,Analyst"
